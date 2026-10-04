@@ -1,0 +1,29 @@
+body{
+    background-color: #df7436;
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+#bglime span{
+    color: red;
+}
+ul{
+    color: white;
+}
+li:first-child a{
+    background-color: lime;
+    color: green;
+}
+li:last-child a{
+    background-color: rgb(132, 63, 132);
+    color: blue;
+}
+ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
